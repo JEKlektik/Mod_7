@@ -3,6 +3,9 @@ Financial database and web application using SQL, Python, and the Voilà library
 
 # Technologies
 import numpy as np
+
 import pandas as pd
+
 import hvplot.pandas
+
 import sqlalchemy
