@@ -11,5 +11,5 @@ import hvplot.pandas
 import sqlalchemy
 
 # Use the Voilà library to deploy your notebook as a web application
-<img src="<Module Challenge 7/Viola Screenshots/Screen Shot 2022-05-08 at 8.04.40 PM.png>"
-<img src="<Module Challenge 7/Viola Screenshots/Screen Shot 2022-05-08 at 8.05.26 PM.png>"
+<img src="Module Challenge 7/Viola Screenshots/Screen Shot 2022-05-08 at 8.04.40 PM.png">
+<img src="Module Challenge 7/Viola Screenshots/Screen Shot 2022-05-08 at 8.05.26 PM.png">
